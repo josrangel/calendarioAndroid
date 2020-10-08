@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/drawable_ic_okaslokas.xml.flat",
+        "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/drawable/ic_okaslokas.xml"
+    },
+    {
         "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
@@ -36,6 +40,10 @@
         "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/layout/activity_contacto.xml"
     },
     {
+        "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/layout_activity_notas2.xml.flat",
+        "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/layout/activity_notas2.xml"
+    },
+    {
         "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
@@ -62,6 +70,10 @@
     {
         "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/layout_activity_form_nueva_nota.xml.flat",
+        "source": "/Users/kmmx/AndroidStudioProjects/Calendario/app/src/main/res/layout/activity_form_nueva_nota.xml"
     },
     {
         "merged": "/Users/kmmx/AndroidStudioProjects/Calendario/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",

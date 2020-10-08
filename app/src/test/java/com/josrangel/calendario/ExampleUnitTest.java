@@ -11,7 +11,22 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
     @Test
-    public void addition_isCorrect() {
-        assertEquals(4, 2 + 2);
+    public void pruebaSuma() {
+        assertEquals(4, Funciones.suma(2,2));
+    }
+
+    @Test
+    public void pruebaResta() {
+        assertEquals(0, Funciones.resta(2,2));
+    }
+
+    @Test
+    public void pruebaMultiplicacion() {
+        assertEquals(4, Funciones.multiplicacion(2,2));
+    }
+
+    @Test
+    public void pruebaDivision() {
+        assertEquals(1, Funciones.division(2,2));
     }
 }

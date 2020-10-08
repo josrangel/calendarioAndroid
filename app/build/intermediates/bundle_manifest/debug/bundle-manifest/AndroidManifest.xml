@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.josrangel.calendario.TareasActivity" />
+        <activity android:name="com.josrangel.calendario.FormNuevaNota" />
         <activity android:name="com.josrangel.calendario.NotasActivity" />
         <activity android:name="com.josrangel.calendario.ContactoActivity" />
         <activity android:name="com.josrangel.calendario.MainActivity" >

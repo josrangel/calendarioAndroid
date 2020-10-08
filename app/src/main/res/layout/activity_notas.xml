@@ -20,4 +20,23 @@
         android:layout_below="@+id/btnAgregaNota"
         android:layout_marginTop="0dp"
         android:text=" Notas" />
+
+
+    <Button
+        android:id="@+id/dialogBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnNotas"
+        android:layout_marginTop="0dp"
+        android:text=" +" />
+
+    <Button
+        android:id="@+id/tareasBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnNotas"
+        android:layout_marginTop="0dp"
+        android:text="Notas" />
+
+
 </RelativeLayout>

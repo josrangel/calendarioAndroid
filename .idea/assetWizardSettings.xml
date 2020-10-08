@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/Applications/Android%20Studio.app/Contents/plugins/android/lib/android.jar!/images/material/icons/materialicons/priority_high/baseline_priority_high_24.xml" />
+                                      <entry key="url" value="jar:file:/Applications/Android%20Studio.app/Contents/plugins/android/lib/android.jar!/images/material/icons/materialicons/check/baseline_check_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,9 +28,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="c3be00" />
-                            <entry key="opacityPercent" value="61" />
-                            <entry key="outputName" value="ic_baseline_priority_high_24" />
+                            <entry key="color" value="22c319" />
+                            <entry key="opacityPercent" value="66" />
+                            <entry key="outputName" value="ic_okaslokas" />
                           </map>
                         </option>
                       </PersistentState>

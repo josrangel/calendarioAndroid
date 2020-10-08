@@ -1544,6 +1544,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_okaslokas
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1665,6 +1666,7 @@ id bottom
 id bounce
 id btnAgregaNota
 id btnAgregar
+id btnDone
 id btnNotas
 id btnPasar
 id buttonPanel
@@ -1693,6 +1695,7 @@ id content
 id contentPanel
 id coordinator
 id cos
+id cuerpoNota
 id custom
 id customPanel
 id cut
@@ -1707,6 +1710,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dialogBtn
 id dialog_button
 id dimensions
 id direct
@@ -1903,6 +1907,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id tareasBtn
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -1911,6 +1916,7 @@ id tex4
 id text
 id text2
 id textEnd
+id textFecha
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -1953,6 +1959,7 @@ id tvNombre
 id tvPais
 id tvTelefono
 id tvUrl
+id txtFechaMuestra
 id unchecked
 id uniform
 id unlabeled
@@ -2026,8 +2033,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_contacto
+layout activity_form_nueva_nota
 layout activity_main
 layout activity_notas
+layout activity_notas2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
